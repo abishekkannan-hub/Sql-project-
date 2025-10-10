@@ -9,7 +9,7 @@ Perform sales performance analysis to identify growth trends, product performanc
 •Power Bi
 
 ## 📊 Process
-1. Cleaned and transformed raw sales data using SQL.  
+1. Cleaned and transformed 10000+ raw sales data using SQL.  
 2. Created interactive Power BI dashboards for trend analysis.  
 3. Tracked **monthly growth (+18%)** and visualized top-performing regions.  
 
@@ -19,4 +19,4 @@ Perform sales performance analysis to identify growth trends, product performanc
 - Product Category Trends
 
 ## 📸 Dashboard Preview
-![Sales Dashboard]()
+![Sales Dashboard]
